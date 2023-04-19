@@ -1,0 +1,11 @@
+
+
+export default function Css() {
+  return (
+    <div>
+        <h1>Css</h1>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deserunt blanditiis nam nobis? Sequi cum saepe ratione consequatur omnis atque consequuntur, ut, vero quisquam quaerat maiores impedit? Aliquid assumenda earum hic repellat id eligendi in accusantium voluptatum atque eaque ea sit, dolore maiores amet enim officiis nesciunt dicta. Ratione maiores magnam minima labore, ex maxime dignissimos. Asperiores enim iure tenetur. Voluptate, laborum voluptatem iste amet numquam facere reprehenderit cum eveniet assumenda illo repudiandae voluptatibus. Officia atque repudiandae molestiae libero dolores sunt excepturi veniam alias, accusamus est quasi aliquid, dolorem nam? Deleniti corporis perspiciatis commodi debitis repellendus optio, ab accusantium placeat in maxime distinctio voluptas asperiores cum minus quo, maiores dolor laboriosam velit ullam animi ex beatae, pariatur molestiae architecto. Vel, reiciendis. Eius, atque alias hic minus quasi nemo quas culpa laboriosam nobis. Nisi iusto maxime ab voluptatem, tenetur deserunt! Non adipisci odit fugiat neque explicabo, nulla natus quia iure soluta, doloremque blanditiis in minus! Voluptatibus perferendis voluptatem nobis dolores ipsum soluta eligendi autem culpa ex. Necessitatibus mollitia aut sunt optio laboriosam laudantium temporibus eaque non. Quia quasi, magnam optio obcaecati repellendus in modi animi aliquid beatae rem excepturi? Alias, fugiat sit ex quos officiis magnam assumenda esse illo deleniti ducimus. Accusamus illo ipsa quibusdam soluta aspernatur quaerat, optio qui reprehenderit, porro pariatur ducimus repellendus corporis magnam cumque voluptatem. Officia nihil deserunt obcaecati modi consequuntur est laudantium molestias, fuga culpa doloribus maxime, veniam sapiente nam autem at accusantium quis magnam eos, ut velit illum id tenetur. Placeat reiciendis totam dolore veritatis fuga aut beatae, deleniti in porro sit accusantium aspernatur aliquid neque dolorum. Ea consequuntur repellendus cupiditate. Dolores minus iure enim quam fugit corrupti culpa illum at quod ab? Explicabo soluta aut sint sed quo, dolores quos magni officiis nostrum eligendi officia architecto consequatur, dicta, animi et beatae? Odit placeat voluptatibus obcaecati!</p>
+    </div>
+  )
+}
+

@@ -1,0 +1,47 @@
+.navBar{
+    display: flex;
+    gap: 2rem;
+    border: .2rem solid black ;
+    height: 3rem;
+    background-color: black;
+    justify-content: flex-end;
+    align-items: center;
+    
+    
+}
+
+.anchorTag{
+    margin-right: 10rem;
+}
+.navBar a{
+    margin-left: 10rem;
+    color: white;
+    text-decoration: none;
+   
+
+    
+}
+.main{
+    text-align: center;
+}
+.mainTech{
+    
+    height: 50rem;
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.left{
+    
+    width: 55rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    
+}
+.right{
+  
+    width: 55rem;
+ 
+}
